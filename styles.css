@@ -2,14 +2,14 @@
 /* Your CSS Code here. */
 .holder{
 	display:flex;
-	border: 2px solid green; 
- 	height:200px;
+/* 	border: 2px solid green;
+	height:200px; */
 	flex-wrap: wrap;
-	justify-content:space-between;
+	justify-content:center;
 }
 
-.flex-item{
+/* .flex-item{
 	padding:40px;
 	background-color:blue;
 	color:white;
-}
+} */
